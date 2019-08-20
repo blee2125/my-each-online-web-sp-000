@@ -1,4 +1,4 @@
-array = ['arel', 'jon', 'logan', 'spencer']
+
 def my_each(array) # put argument(s) here
   numb = 0
   while numb < array.length
@@ -6,5 +6,5 @@ def my_each(array) # put argument(s) here
     numb +=1
 
   end
-
+  array
 end
